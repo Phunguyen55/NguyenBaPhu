@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Laravel"
+		},
+		{
+			"path": "../../../../../../Users/DMX/OneDrive/Desktop/Eshopper"
+		},
+		{
+			"path": "../../../../../../Users/DMX/OneDrive/Desktop/web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shop"
+	}
+}
